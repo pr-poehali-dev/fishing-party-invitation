@@ -39,9 +39,7 @@ const Index = () => {
           <h1 className="text-6xl md:text-8xl font-black text-secondary mb-6 drop-shadow-lg">
             ВЕЧЕРИНКА! 🎣
           </h1>
-          <p className="text-2xl md:text-3xl text-foreground font-semibold">
-            Приключение с ночёвкой в домиках
-          </p>
+          <p className="text-2xl md:text-3xl text-foreground font-semibold">Приключение с ночёвкой </p>
         </header>
 
         <div className="max-w-5xl mx-auto space-y-8">
