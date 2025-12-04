@@ -49,7 +49,7 @@ const Index = () => {
                   <Icon name="Calendar" size={28} className="text-secondary mt-1" />
                   <div>
                     <p className="font-semibold text-lg text-foreground/80">Дата</p>
-                    <p className="text-2xl font-bold text-foreground">15-16 июня 2024</p>
+                    <p className="text-2xl font-bold text-foreground">13-14 декабря</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
