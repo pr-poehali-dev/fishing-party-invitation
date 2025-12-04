@@ -138,13 +138,10 @@ const Index = () => {
               </div>
               <div className="grid md:grid-cols-2 gap-4">
                 {[
-                  { icon: "👕", text: "Удобную одежду для активного отдыха" },
-                  { icon: "🧥", text: "Тёплую кофту на вечер" },
-                  { icon: "👟", text: "Сменную обувь и резиновые сапоги" },
-                  { icon: "🧴", text: "Средство от комаров" },
+                  { icon: "🧥", text: "Теплая одежда" },
+                  { icon: "👢", text: "Сменная обувь и сапоги" },
                   { icon: "🎒", text: "Личные вещи для ночёвки" },
-                  { icon: "💧", text: "Бутылку с водой" },
-                  { icon: "📱", text: "Фонарик или телефон с зарядкой" },
+                  { icon: "🎣", text: "Рыболовные снасти (если есть)" },
                   { icon: "😊", text: "Хорошее настроение!" }
                 ].map((item, index) => (
                   <div key={index} className="flex items-center gap-3 p-4 bg-gradient-to-r from-sky-50 to-cyan-50 rounded-xl border-2 border-primary/10">
@@ -152,12 +149,6 @@ const Index = () => {
                     <p className="text-lg font-medium text-foreground">{item.text}</p>
                   </div>
                 ))}
-              </div>
-              <div className="mt-6 p-6 bg-secondary/10 rounded-2xl border-2 border-secondary">
-                <p className="text-lg font-semibold text-foreground flex items-center gap-2">
-                  <Icon name="Info" size={24} className="text-secondary" />
-                  Рыболовные снасти предоставляются организаторами!
-                </p>
               </div>
             </CardContent>
           </Card>
