@@ -193,7 +193,7 @@ const Index = () => {
                     <Icon name="Car" size={24} className="text-primary mt-1" />
                     <div>
                       <p className="font-bold text-lg text-foreground">На машине:</p>
-                      <p className="text-foreground">40 км от МКАД по Ярославскому шоссе, поворот на "Рыбацкий рай"</p>
+                      <p className="text-foreground">Россия, Республика Адыгея, Теучежский район</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
