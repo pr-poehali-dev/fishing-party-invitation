@@ -23,7 +23,7 @@ const Index = () => {
           </div>
           <div className="mb-8 flex justify-center">
             <img 
-              src="https://cdn.poehali.dev/files/96181d4b-2208-4429-942f-3d1e810f22d8.jpg" 
+              src="https://cdn.poehali.dev/files/14356d82-4e6c-4e94-a874-41c1656f5785.png" 
               alt="Рома" 
               className="w-48 h-48 rounded-full shadow-2xl border-4 border-secondary object-cover"
             />
