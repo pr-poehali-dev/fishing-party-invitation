@@ -197,7 +197,7 @@ const Index = () => {
             <p className="text-3xl md:text-4xl font-black text-white mb-2">
               Ждём всех на вечеринке! 🎉
             </p>
-            <p className="text-xl text-white/90">Пожалуйста, подтвердите участие до 10 декабря</p>
+            <p className="text-xl text-white/90"></p>
           </div>
         </footer>
       </div>
