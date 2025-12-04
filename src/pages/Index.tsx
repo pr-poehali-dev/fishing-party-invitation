@@ -21,6 +21,13 @@ const Index = () => {
               className="w-full h-auto rounded-3xl shadow-2xl border-4 border-primary"
             />
           </div>
+          <div className="mb-8 flex justify-center">
+            <img 
+              src="https://cdn.poehali.dev/files/96181d4b-2208-4429-942f-3d1e810f22d8.jpg" 
+              alt="Рома" 
+              className="w-48 h-48 rounded-full shadow-2xl border-4 border-secondary object-cover"
+            />
+          </div>
           <div className="inline-block mb-6">
             <Badge className="text-lg px-6 py-2 bg-secondary hover:bg-secondary/90">
               11 лет Роме! 🎉
