@@ -63,8 +63,8 @@ const Index = () => {
                   <Icon name="MapPin" size={28} className="text-secondary mt-1" />
                   <div>
                     <p className="font-semibold text-lg text-foreground/80">Место</p>
-                    <p className="text-2xl font-bold text-foreground">База " Озера Адыгеи"</p>
-                    <p className="text-lg text-muted-foreground mt-1">г. Краснодар</p>
+                    <p className="text-2xl font-bold text-foreground">Клуб рыболовов " Озера Адыгеи"</p>
+                    <p className="text-lg text-muted-foreground mt-1">Россия, Республика Адыгея, Теучежский район</p>
                   </div>
                 </div>
               </div>
