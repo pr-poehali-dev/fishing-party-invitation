@@ -162,7 +162,7 @@ const Index = () => {
               <div className="bg-gradient-to-br from-sky-100 to-cyan-100 rounded-2xl p-8 border-2 border-primary/20">
                 <div className="aspect-video bg-white rounded-xl shadow-lg overflow-hidden mb-6">
                   <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2242.5752469676286!2d37.6173!3d55.7558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTXCsDQ1JzIwLjkiTiAzN8KwMzcnMDIuMyJF!5e0!3m2!1sru!2sru!4v1234567890"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2889.3!2d39.0892!3d44.9892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDTCsDU5JzIxLjEiTiAzOcKwMDUnMjEuMSJF!5e0!3m2!1sru!2sru!4v1234567890"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -176,7 +176,7 @@ const Index = () => {
                     <Icon name="Car" size={24} className="text-primary mt-1" />
                     <div>
                       <p className="font-bold text-lg text-foreground">На машине:</p>
-                      <p className="text-foreground">Россия, Республика Адыгея, Теучежский район</p>
+                      <p className="text-foreground">Россия, Республика Адыгея, СНТ Коммунальщик, 1</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
