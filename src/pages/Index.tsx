@@ -16,7 +16,7 @@ const Index = () => {
         <header className="text-center py-16 animate-fade-in">
           <div className="mb-8 max-w-3xl mx-auto">
             <img 
-              src="https://cdn.poehali.dev/projects/6cb7fb8f-9dd5-4c9d-960f-17fd3681d8bb/files/18f0cc59-77b2-4bfc-bf66-e3c811f6affc.jpg" 
+              src="https://cdn.poehali.dev/projects/6cb7fb8f-9dd5-4c9d-960f-17fd3681d8bb/files/22425c37-cb2d-4156-b33a-e799d9c992b0.jpg" 
               alt="Рыбацкая вечеринка" 
               className="w-full h-auto rounded-3xl shadow-2xl border-4 border-primary"
             />
